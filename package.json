@@ -1,0 +1,23 @@
+{
+  "name": "player-similarity-engine",
+  "version": "0.0.0",
+  "description": "Let's find some similar players",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebbersj/playerSimilarity.git"
+  },
+  "author": "Jason Ebbers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebbersj/playerSimilarity/issues"
+  },
+  "homepage": "https://github.com/ebbersj/playerSimilarity#readme",
+  "dependencies": {
+    "config": "^1.26.1",
+    "solr-client": "^0.7.0"
+  }
+}
